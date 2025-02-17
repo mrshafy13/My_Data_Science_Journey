@@ -7,11 +7,7 @@ Welcome to my IMDB Movie Reviews Analysis project! This project involves analyzi
 - [Dataset](#dataset)
 - [Models](#models)
 - [Results](#results)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
+- [Visual](#visual)
 ## Introduction
 The goal of this project is to classify the sentiment of IMDB movie reviews as positive or negative. I have used three models for this task: Logistic Regression, Decision Tree Classifier, and Random Forest Classifier.
 
@@ -32,7 +28,7 @@ The performance of each model was evaluated using accuracy, precision, recall, a
 | Decision Tree Classifier | 76% | 
 | Random Forest Classifier | 85% | 
 
-##Visual
+## Visual
 ![accuracy](https://github.com/user-attachments/assets/d1122a59-9ee4-441c-bd01-9da5403481f8)
 
 
