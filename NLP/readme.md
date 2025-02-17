@@ -17,23 +17,6 @@ This repository is dedicated to showcasing my NLP projects and tasks. Each proje
 1. **Text Classification**
     - Sentiment Analysis
 
-## Installation
-To run these projects locally, you'll need to install the necessary dependencies. Follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/nlp-tasks.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd nlp-tasks
-    ```
-
-3. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 Each project has its own README file with specific instructions on how to run the code and use the models. Please refer to those files for more details.
