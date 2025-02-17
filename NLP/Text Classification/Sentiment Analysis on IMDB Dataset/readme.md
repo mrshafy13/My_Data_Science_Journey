@@ -31,6 +31,8 @@ The performance of each model was evaluated using accuracy, precision, recall, a
 | Logistic Regression      | 89% | 
 | Decision Tree Classifier | 76% | 
 | Random Forest Classifier | 85% | 
+
+##Visual
 ![accuracy](https://github.com/user-attachments/assets/d1122a59-9ee4-441c-bd01-9da5403481f8)
 
 
