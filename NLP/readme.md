@@ -16,17 +16,6 @@ This repository is dedicated to showcasing my NLP projects and tasks. Each proje
 ## Projects
 1. **Text Classification**
     - Sentiment Analysis
-    - Spam Detection
-2. **Named Entity Recognition (NER)**
-    - Entity Extraction
-3. **Machine Translation**
-    - English to Spanish Translation
-4. **Text Summarization**
-    - Extractive Summarization
-    - Abstractive Summarization
-5. **Language Modeling**
-    - Word Prediction
-    - Text Generation
 
 ## Installation
 To run these projects locally, you'll need to install the necessary dependencies. Follow these steps:
